@@ -1,9 +1,9 @@
-=== Gravity Forms CustomCaptcha (ABT) Add-on ===
-Contributors: atlanticbt, tnblueswirl
-Donate link: http://atlanticbt.com
-Tags: gravity forms, custom, captcha, recaptcha, security, access, anti-bot
-Requires at least: 2.8
-Tested up to: 3.1.4
+=== Gravity Forms Captcha Add-on ===
+Contributors: SGS Sandhu
+Donate link: http://oxosolutions.com
+Tags: gravity forms, captcha, recaptcha, security, access, anti-bot
+Requires at least: 3.0
+Tested up to: 3.8.0
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -34,7 +34,7 @@ Full feature control integrated into Gravity Forms Settings page.
 1. Unzip, upload plugin folder to your plugins directory (`/wp-content/plugins/`)
 2. Activate plugin
 3. Configure Captcha settings from the Gravity Forms Settings page.
-4. Use the `CustomCaptcha` button in the `Advanced Fields` 
+4. Use the `GFCaptcha` button in the `Advanced Fields` 
 
 == Frequently Asked Questions ==
 
@@ -42,7 +42,7 @@ Please Contact us if you have any questions
 
 == Changelog ==
 
-= 0.1 =
+= 1.0 =
 
 * Initial Release
 

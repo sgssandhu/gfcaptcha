@@ -1,6 +1,6 @@
 <?php
 
-class GFCaptchaABTUpgrade{
+class GFCaptchaUpgrade{
 
     public static function set_version_info($version_info){
         if ( function_exists('set_site_transient') )
